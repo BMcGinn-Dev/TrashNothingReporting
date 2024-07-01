@@ -1,0 +1,3 @@
+API Key: U5mwY4RYwuPIRvGYRridfThoAm1ET1XbeRAnC4iG
+
+Request Limit: 5000 requests per day

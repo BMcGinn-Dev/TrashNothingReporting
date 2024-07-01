@@ -1,0 +1,8 @@
+pandas
+seaborn
+icecream
+matplotlib
+requests
+flask
+tkinter
+geopy
